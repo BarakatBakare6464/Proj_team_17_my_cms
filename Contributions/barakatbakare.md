@@ -10,3 +10,4 @@
 - [worked on high fidelity feedback hub](https://www.figma.com/file/Uli9IZeFBp4ZlCe46ui6dI/Team-17_my_cms?node-id=2343%3A5306)
 - [github link for the commit of contact us page](https://github.com/BarakatBakare6464/Proj_team_17_my_cms/commit/ac8be88558c32a9f1901d394ea1ca713323c2d90)
 - [github link for the commit of about us page ](https://github.com/BarakatBakare6464/Proj_team_17_my_cms/commit/33f284f19f345bae09e8136027f74244031353a4)
+- [represented team_17 in the first presentation]
