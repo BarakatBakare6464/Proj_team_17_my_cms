@@ -8,4 +8,5 @@
 - [worked on low fidelity feedback hub](https://www.figma.com/file/Uli9IZeFBp4ZlCe46ui6dI/Team-17_my_cms?node-id=2375%3A5791)
 - [worked on high fidelity about us page](https://www.figma.com/file/Uli9IZeFBp4ZlCe46ui6dI/Team-17_my_cms?node-id=2343%3A5323)
 - [worked on high fidelity feedback hub](https://www.figma.com/file/Uli9IZeFBp4ZlCe46ui6dI/Team-17_my_cms?node-id=2343%3A5306)
-- [github link for landing page](https://github.com/BarakatBakare6464/Proj_team_17_my_cms/commit/452de393ff6d04c20977f406195b5a54f4f6d65a)
+- [github link for the commit of contact us page](https://github.com/BarakatBakare6464/Proj_team_17_my_cms/commit/ac8be88558c32a9f1901d394ea1ca713323c2d90)
+- [github link for the commit of about us page ](https://github.com/BarakatBakare6464/Proj_team_17_my_cms/commit/33f284f19f345bae09e8136027f74244031353a4)
