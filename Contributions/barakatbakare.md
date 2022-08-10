@@ -1,1 +1,2 @@
 -[worked on empathy map](https://www.figma.com/file/Uli9IZeFBp4ZlCe46ui6dI/Team-17_my_cms?node-id=1750%3A4014)
+-[github link for landing page](https://github.com/BarakatBakare6464/Proj_team_17_my_cms/commit/452de393ff6d04c20977f406195b5a54f4f6d65a)
